@@ -43,5 +43,3 @@ It may not look very pretty yet, but it’s all about building strong foundation
 
 ---
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).  
