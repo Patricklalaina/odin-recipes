@@ -21,7 +21,7 @@ It may not look very pretty yet, but it’s all about building strong foundation
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/recipe-website.git
+   git clone https://github.com/Patricklalaina/odin-recipes.git
    ```
 2. Open `index.html` in your browser.  
 3. Click on any recipe link to view it.
