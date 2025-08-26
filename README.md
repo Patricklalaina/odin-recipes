@@ -25,7 +25,7 @@ It may not look very pretty yet, but it’s all about building strong foundation
    ```
 2. Open `index.html` in your browser.  
 3. Click on any recipe link to view it.
-
+4. Or check preview in <a href="https://patricklalaina.github.io/odin-recipes/">link</a>
 ---
 
 ## 📖 What I Learned
